@@ -6,6 +6,8 @@
 
 <p align="center">An Android app for <a href="https://alphaxiv-scroll.vercel.app/">alphaXiv Scroll</a>: swipe through video explainers of papers trending on alphaXiv.</p>
 
+<p align="center"><a href="https://github.com/saptarshihalder/alpha-scroll/raw/main/release/alphaxiv-scroll.apk"><b>Download APK (v1.1)</b></a></p>
+
 ## About
 
 alpha-scroll wraps [alphaxiv-scroll.vercel.app](https://alphaxiv-scroll.vercel.app/) in a full-screen WebView, with no browser bar, autoplaying video, back-button navigation, and an adaptive launcher icon.
@@ -23,7 +25,7 @@ The script writes `alphaxiv-scroll.apk`. On the first run it creates a signing k
 
 ## Install
 
-Copy the APK to your phone, open it, and allow installs from that source when prompted. Requires Android 7.0 or newer.
+Download [`alphaxiv-scroll.apk`](https://github.com/saptarshihalder/alpha-scroll/raw/main/release/alphaxiv-scroll.apk) on your phone, open it, and allow installs from that source when prompted. Requires Android 7.0 or newer.
 
 ## Credits
 
